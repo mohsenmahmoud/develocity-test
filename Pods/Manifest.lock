@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.6.1)
+  - Charts (4.0.3):
+    - Charts/Core (= 4.0.3)
+  - Charts/Core (4.0.3):
+    - SwiftAlgorithms (~> 1.0)
+  - Kingfisher (7.2.3)
+  - Socket.IO-Client-Swift (16.0.1):
+    - Starscream (~> 4.0)
+  - Starscream (4.0.4)
+  - SwiftAlgorithms (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Charts
+  - Kingfisher
+  - Socket.IO-Client-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Charts
+    - Kingfisher
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SwiftAlgorithms
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  Charts: d959d6723c8eedfdd0735dfc28cb0a71762ac4d9
+  Kingfisher: 8c2cbe0c11ea4d481542895112682a99e058468e
+  Socket.IO-Client-Swift: c116d6dc9fd6be9c259bacfe143f8725bce7d79e
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+
+PODFILE CHECKSUM: ac75a280167634c59f9ac46cd86c4fa1232e6544
+
+COCOAPODS: 1.11.3
